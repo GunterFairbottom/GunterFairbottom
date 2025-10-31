@@ -3,8 +3,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/h-fairbanks)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:hunterdfairbanks@gmail.com)
-[![Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?style=flat&logo=comptia)](https://www.credly.com/badges/your-badge-id)
-[![AWS](https://img.shields.io/badge/AWS-Cloud_Practitioner-orange?style=flat&logo=amazon-aws)](https://www.credly.com/badges/your-badge-id)
+[![Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?style=flat&logo=comptia)]([https://www.credly.com/badges/your-badge-id](https://www.credly.com/badges/f9bedaea-612c-4fe5-8396-3cf43462d067/public_url))
+[![AWS](https://img.shields.io/badge/AWS-Cloud_Practitioner-orange?style=flat&logo=amazon-aws)]([https://www.credly.com/badges/your-badge-id](https://drive.google.com/file/d/1_AcLK3rP5jtoRro_CKkP9WWvAZjUwMEp/view?usp=sharing))
 
 ## 👋 About Me
 
