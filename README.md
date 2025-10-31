@@ -9,9 +9,9 @@
 ## 👋 About Me
 
 
-Cybersecurity professional with **5+ years of experience** specializing in Risk Management Framework (RMF) authorization, eMASS administration, and DoD cloud security. Currently serving as **Senior ISSO** with active **Top Secret clearance**.
+Cybersecurity professional with 5+ years of experience specializing in Risk Management Framework (RMF) authorization, eMASS administration, and DoD cloud security. Currently serving as Senior ISSO with active **Top Secret clearance**.
 
-**Recent Achievement**: Senior ISSO for **$50M Space Force** cloud modernization program—achieved ATO in <1 year with 98% POAM closure rate, successfully upgraded from IL4→IL5 for classified mission workloads.
+**Recent Achievement**: Senior ISSO for $50M Space Force cloud modernization program—achieved ATO in <1 year with 98% POAM closure rate, successfully upgraded from IL4→IL5 for classified mission workloads.
 
 **Passion**: Automating GRC workflows, simplifying compliance processes, and sharing knowledge with the cybersecurity community.
 
