@@ -37,7 +37,7 @@ Cybersecurity professional with 5+ years of experience specializing in Risk Mana
 
 ## Featured Projects
 
-### [RMF-Automation-Toolkit](https://github.com/gunterfairbottom/RMF-Automation-Toolkit)
+### [RMF-Automation-Toolkit](https://github.com/hunterfairbanks/RMF-Automation-Toolkit)
 Python-based automation tools for streamlining RMF/eMASS workflows. Includes POAM tracking, SSP generation, and control evidence collection.
 - **Tech**: Python, APIs, Automation
 - **Use Case**: Reduce manual effort in authorization lifecycle
