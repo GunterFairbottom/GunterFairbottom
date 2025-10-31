@@ -3,7 +3,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/h-fairbanks)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:hunterdfairbanks@gmail.com)
-[Email Me](mailto:hunterdfairbanks@gmail.com)
 [![Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?style=flat&logo=comptia)](https://www.credly.com/badges/f9bedaea-612c-4fe5-8396-3cf43462d067/public_url)
 [![AWS](https://img.shields.io/badge/AWS-Cloud_Practitioner-orange?style=flat&logo=amazon-aws)](https://drive.google.com/file/d/1_AcLK3rP5jtoRro_CKkP9WWvAZjUwMEp/view?usp=sharing)
 
@@ -12,7 +11,7 @@
 
 Cybersecurity professional with **5+ years of experience** specializing in Risk Management Framework (RMF) authorization, eMASS administration, and DoD cloud security. Currently serving as **Senior ISSO** with active **Top Secret clearance**.
 
-🎯 **Recent Achievement**: Sole ISSO for **$50M Space Force** cloud modernization program—achieved ATO in <1 year with 98% POAM closure rate, successfully upgraded from IL4→IL5 for classified mission workloads.
+🎯 **Recent Achievement**: Senior ISSO for **$50M Space Force** cloud modernization program—achieved ATO in <1 year with 98% POAM closure rate, successfully upgraded from IL4→IL5 for classified mission workloads.
 
 💡 **Passion**: Automating GRC workflows, simplifying compliance processes, and sharing knowledge with the cybersecurity community.
 
