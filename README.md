@@ -1,4 +1,4 @@
-# Hunter Douglas Fairbanks
+# Hunter Fairbanks
 ### Information System Security Officer | GRC Specialist | TS Clearance
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/h-fairbanks)
